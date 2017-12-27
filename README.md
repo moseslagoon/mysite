@@ -1,2 +1,2 @@
 # mysite
-A Project to hone my django skills
+Introductory follow-along tutorial completed to get up and running with Django
